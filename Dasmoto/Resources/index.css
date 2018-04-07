@@ -6,7 +6,7 @@ h1{
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image:url("/Users/dv/Desktop/Dasmoto/Resources/images/pattern.jpeg");
+  background-image:url("./images/pattern.jpeg");
 }
 .title{
   font-size: 32px;
